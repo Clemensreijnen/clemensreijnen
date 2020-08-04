@@ -1,5 +1,5 @@
 
-# Clemens Reijnen
+# Clemens Reijnen [![Clemens Reijnen](Clemens.jpg)](/uri)
 
 Hello 👋 I'm a maintainer of several internal and public projects at [Sogeti GitHub ](https://github.com/sogeti), most projects you find on this person GitHub account are experiments. The most recent project is the (DevSecOps Reference Architecture)[https://github.com/sogeti/devsecopsrefarch], a visual of DevOps practices and my last article on LinkedIn is on [Enterprise DevOps – how to avoid the chaos](https://www.linkedin.com/pulse/enterprise-devops-how-avoid-chaos-clemens-reijnen/?trackingId=RAf9JtYRTYaxECMyIsPqzg%3D%3D). DevOps and cloud are close to my heart.
 
