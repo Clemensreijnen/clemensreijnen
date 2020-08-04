@@ -1,8 +1,7 @@
 
 # Clemens Reijnen
 
-Hello 👋 I'm a maintainer of several internal and public projects at [Sogeti](https://github.com/sogeti).
-The most recent project is the (DevSecOps Reference Architecture)[], a visual of DevOps practices and my last article on LinkedIn is on Enterprise DevOps – how to avoid the chaos. DevOps and cloud are close to my heart.
+Hello 👋 I'm a maintainer of several internal and public projects at [Sogeti GitHub ](https://github.com/sogeti), most projects you find on this person GitHub account are experiments. The most recent project is the (DevSecOps Reference Architecture)[https://github.com/sogeti/devsecopsrefarch], a visual of DevOps practices and my last article on LinkedIn is on [Enterprise DevOps – how to avoid the chaos](https://www.linkedin.com/pulse/enterprise-devops-how-avoid-chaos-clemens-reijnen/?trackingId=RAf9JtYRTYaxECMyIsPqzg%3D%3D). DevOps and cloud are close to my heart.
 
 My work @Sogeti covers the [Sogeti Cloud Services](https://www.sogeti.com/services/cloud/) where next to the cloud native and migration portfolio I also support solutions like the [Artificial Data Amplifier](https://www.sogeti.com/services/artificial-intelligence/artificial-data-amplifier/). 
 
