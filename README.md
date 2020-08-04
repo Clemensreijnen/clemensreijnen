@@ -1,8 +1,12 @@
 
 # Clemens Reijnen
 
-Hello 👋 I'm a maintainer of several internal and public projects at (Sogeti)[https://github.com/sogeti].
+Hello 👋 I'm a maintainer of several internal and public projects at [Sogeti](https://github.com/sogeti).
 The most recent project is the (DevSecOps Reference Architecture)[], a visual of DevOps practices and my last article on LinkedIn is on Enterprise DevOps – how to avoid the chaos. DevOps and cloud are close to my heart.
+
+My work @Sogeti covers the [Sogeti Cloud Services](https://www.sogeti.com/services/cloud/) where next to the cloud native and migration portfolio I also support solutions like the [Artificial Data Amplifier](https://www.sogeti.com/services/artificial-intelligence/artificial-data-amplifier/). 
+
+[SogetiLabs](https://labs.sogeti.com/), a community of 150 technology leaders from Sogeti worldwide, is the community I'm most related with. SogetiLabs covers a wide range of digital technology expertise: from embedded software, cyber security, deep learning, simulation, and cloud to business information management, IoT, mobile apps, analytics, testing, and blockchain technologies. The focus is always on leveraging technologies, systems and applications in actual business situations to maximize results.   
 
 ## Get in tough
 
