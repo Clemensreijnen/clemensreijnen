@@ -9,7 +9,7 @@ My work @Sogeti covers the [Sogeti Cloud Services](https://www.sogeti.com/servic
 
 [SogetiLabs](https://labs.sogeti.com/), a community of 150 technology leaders from Sogeti worldwide, is the community I'm most related with. SogetiLabs covers a wide range of digital technology expertise: from embedded software, cyber security, deep learning, simulation, and cloud to business information management, IoT, mobile apps, analytics, testing, and blockchain technologies. The focus is always on leveraging technologies, systems and applications in actual business situations to maximize results.   
 
-## Get in tough
+## Get in touch
 
 * Twitter: https://twitter.com/clemensreijnen
 * Personal site: https://clemensreijnen.nl/
